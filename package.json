@@ -41,8 +41,7 @@
     "clean-ios": "scripts/clean-ios.sh",
     "clean-android": "scripts/clean-android.sh",
     "clean-js": "scripts/clean-js.sh",
-    "docs": "cd docs && yarn build",
-    "postinstall": "yarn && yarn build"
+    "docs": "cd docs && yarn build"
   },
   "keywords": [
     "react-native",
